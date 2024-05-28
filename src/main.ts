@@ -9,3 +9,4 @@ import "./basic/6";
 import "./basic/7";
 
 import "./generics/1"
+import "./generics/2"
