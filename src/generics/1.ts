@@ -9,4 +9,4 @@ async function fetchData<T>(url: string): Promise<T> {
   }
 }
 
-export {};
+export {fetchData};

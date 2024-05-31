@@ -11,4 +11,4 @@ function showMessage(message: string) {
   }
 
 
-  export {}
+  export {showMessage, calc, customError}

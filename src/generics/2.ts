@@ -17,5 +17,5 @@ function compare(
   };
 }
 
-export {}
+export {compare}
 

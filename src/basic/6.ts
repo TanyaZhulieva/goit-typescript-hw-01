@@ -21,4 +21,4 @@ let userPoly: User = {
   email: "poly@example.com",
 };
 
-export{}
+export{userMango, userPoly}

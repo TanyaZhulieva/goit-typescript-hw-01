@@ -12,4 +12,4 @@ const RoleDescription: description = {
   [UserRole.guest]: "Guest User",
 };
 
-export{}
+export{RoleDescription}

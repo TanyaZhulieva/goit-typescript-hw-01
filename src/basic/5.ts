@@ -16,4 +16,4 @@ const isWeekend = (day: DayOfWeek): boolean => {
   }
 };
 
-export{}
+export{isWeekend}

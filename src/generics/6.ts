@@ -22,4 +22,4 @@ const form: Params = {
   phone: "123545",
 };
 
-export {};
+export {form};
